@@ -21,7 +21,7 @@ control through practical exercises.
 | Role | Responsibility |
 |---|---|
 | Supervisor | Repository and training management |
-| Intern | Complete assigned exercises |
+| Nurin <3 | Complete assigned exercises |
 
 ## Training Roadmap
 
