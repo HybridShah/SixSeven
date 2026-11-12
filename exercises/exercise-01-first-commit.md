@@ -1,8 +1,8 @@
 First Commit - Nurin's Details
 
-Name :
-ID :
-Fav Food :
-Fav Movies :
-Hobbies :
-Fav Color :
+Name : Nur
+ID : 6767
+Fav Food : wagyu steak
+Fav Movies : kudrat
+Hobbies : doomscroll
+Fav Color : green
